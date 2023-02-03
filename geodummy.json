@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 130,
+        "properties": {
+          "count": 17859648,
+          "id": 130,
+          "timeDate": "2023-01-13T11:25:00+01:00",
+          "timeLength": 300,
+          "flags": 1,
+          "val": 5.51676025390625
+        },
+        "geometry": {
+          "coordinates": [
+            7.95405276756739,
+            58.14822781151827
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 140,
+        "properties": {
+          "count": 17909697,
+          "id": 140,
+          "timeDate": "2023-01-15T20:00:00+01:00",
+          "timeLength": 3600,
+          "flags": 1,
+          "val": 20.999718308784594
+        },
+        "geometry": {
+          "coordinates": [
+            8.026918645611403,
+            58.17168906692808
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 120,
+        "properties": {
+          "count": 17909987,
+          "id": 120,
+          "timeDate": "2023-01-15T20:00:00+01:00",
+          "timeLength": 3600,
+          "flags": 1,
+          "val": 15.8417419433594
+        },
+        "geometry": {
+          "coordinates": [
+            8.003998392893578,
+            58.163930517718995
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 101,
+        "properties": {
+          "count": 17861237,
+          "id": 101,
+          "timeDate": "2023-01-13T12:00:00+01:00",
+          "timeLength": 3600,
+          "flags": 1,
+          "val": 24.214045626393865
+        },
+        "geometry": {
+          "coordinates": [
+            7.952855440932865,
+            58.12854452566114
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 116,
+        "properties": {
+          "count": 17889908,
+          "id": 116,
+          "timeDate": "2023-01-14T22:15:00+01:00",
+          "timeLength": 300,
+          "flags": 1,
+          "val": 15.4311279296875
+        },
+        "geometry": {
+          "coordinates": [
+            7.873318743066676,
+            58.133330912708345
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
